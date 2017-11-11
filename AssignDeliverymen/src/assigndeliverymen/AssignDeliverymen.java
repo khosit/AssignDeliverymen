@@ -191,7 +191,7 @@ public class AssignDeliverymen {
 
     public static void main(String[] args) {
        
-        AssignDeliveryman o = new AssignDeliveryman();
+        AssignDeliverymen o = new AssignDeliverymen();
         o.Order();
         o.delivery();
         o.assignjob();
